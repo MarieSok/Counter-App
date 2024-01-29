@@ -2,6 +2,12 @@
 html{
     font-size: 62.5%;
 }
+
+.container{
+    background-color: antiquewhite;
+    border-radius: 0.2rem;
+    color:black;
+}
 body{
     background-image:url("https://media.istockphoto.com/id/1465696055/photo/brazilian-jiu-jitsu-bjj-concept-training-martial-arts-combat-sport.webp?b=1&s=170667a&w=0&k=20&c=7JsdOqpdnSMrJVRROERBYdhHlSPxM6FhgP4dVB2KD7U=");
     background-size: cover;
